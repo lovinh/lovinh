@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lovinh
 - 👀 I’m interested in coding, gaming, beautiful thing :)))
 - 🌱 I’m currently learning coding now
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My email address: codelyoko123a@gmail.com
 
 <!---
 lovinh/lovinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
